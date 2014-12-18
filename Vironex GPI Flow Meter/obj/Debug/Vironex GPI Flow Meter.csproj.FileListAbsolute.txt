@@ -1,0 +1,293 @@
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\readings.sdf
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\WinWedge.exe
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\down_hole_pressure_switch.SW3
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\flow_meter.SW3
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\pressure_switch.SW3
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\sensor.SW3
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.config
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.pdb
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\NDde.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\office.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Main.resources
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Properties.Resources.resources
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.GenerateResource.Cache
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.licenses
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.pdb
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\readings.sdf
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\WinWedge.exe
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\down_hole_pressure_switch.SW3
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\flow_meter.SW3
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\pressure_switch.SW3
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\sensor.SW3
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.config
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.pdb
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\NDde.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Main.resources
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Properties.Resources.resources
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.GenerateResource.Cache
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.licenses
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.pdb
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Charts.v13.2.Core.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v13.2.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v13.2.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v13.2.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.UI.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.Wizard.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v13.2.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v13.2.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v13.2.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.Wizard.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.UI.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Users\Kyle\Desktop\HRIT\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Charts.v13.2.Core.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v13.2.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v13.2.Core.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v13.2.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v13.2.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.UI.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.Wizard.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v13.2.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v13.2.Core.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v13.2.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v13.2.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.Wizard.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v13.2.UI.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Printing.v13.2.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csprojResolveAssemblyReference.cache
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.manifest
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.application
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.manifest
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.application
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.FlowReport.resources
+C:\Mike\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.ResolveComReference.cache
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\readings.sdf
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\WinWedge.exe
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\down_hole_pressure_switch.SW3
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\flow_meter.SW3
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\pressure_switch.SW3
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\sensor.SW3
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.config
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.manifest
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.application
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.pdb
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.UI.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\NDde.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.UI.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csprojResolveAssemblyReference.cache
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.ResolveComReference.cache
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.FlowReport.resources
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Main.resources
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Properties.Resources.resources
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.GenerateResource.Cache
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.licenses
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.manifest
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.application
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe
+C:\Users\fstolfi\Documents\Public Folder\Research and Development\HRIT\Software\11-14-2014\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.pdb
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.config
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.ResolveComReference.cache
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.pdb
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csprojResolveAssemblyReference.cache
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.FlowReport.resources
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Main.resources
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex_GPI_Flow_Meter.Properties.Resources.resources
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.csproj.GenerateResource.Cache
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.licenses
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\readings.sdf
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\WinWedge.exe
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\down_hole_pressure_switch.SW3
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\flow_meter.SW3
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\pressure_switch.SW3
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\sensor.SW3
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe.manifest
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.application
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.exe
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\Vironex GPI Flow Meter.pdb
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Charts.v14.1.Core.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.UI.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\NDde.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.Wizard.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraCharts.v14.1.UI.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v14.1.Wizard.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraCharts.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.exe.manifest
+C:\Mike\Vironex GPI Flow Meter - Frank\Vironex GPI Flow Meter (12-11-2014)\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Debug\Vironex GPI Flow Meter.application

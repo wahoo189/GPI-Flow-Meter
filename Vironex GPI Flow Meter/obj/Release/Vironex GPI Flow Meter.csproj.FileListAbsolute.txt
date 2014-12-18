@@ -1,0 +1,6 @@
+C:\Users\Frank\Documents\Development Projects\Vironex GPI Flow Meter\Vironex GPI Flow Meter\bin\Release\Vironex GPI Flow Meter.exe.config
+C:\Users\Frank\Documents\Development Projects\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Release\Vironex_GPI_Flow_Meter.FlowReport.resources
+C:\Users\Frank\Documents\Development Projects\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Release\Vironex_GPI_Flow_Meter.Main.resources
+C:\Users\Frank\Documents\Development Projects\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Release\Vironex_GPI_Flow_Meter.Properties.Resources.resources
+C:\Users\Frank\Documents\Development Projects\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Release\Vironex GPI Flow Meter.csproj.GenerateResource.Cache
+C:\Users\Frank\Documents\Development Projects\Vironex GPI Flow Meter\Vironex GPI Flow Meter\obj\Release\Vironex GPI Flow Meter.exe.licenses
